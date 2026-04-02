@@ -32,10 +32,10 @@
 
 [+] Session restored: @myaccount
 
-[Ja4instaHome][no target]> target cristiano
-[+] Target → @cristiano
+[Ja4instaHome][no target]> target tnst7_
+[+] Target → @tnst7_
 
-[Ja4instaHome][@cristiano]> info
+[Ja4instaHome][@tnst7_]> info
 
 ━━━━ ACCOUNT INFO — @James AL-mutairi━━━━━━━━━━━━━━━━━━━━━━━━━━
   Username       : tnst7_
@@ -60,7 +60,7 @@
 ---
 
 ```
-[Ja4instaHome][@cristiano]> engagement
+[Ja4instaHome][@tnst7_]> engagement
 
 ━━━━ ENGAGEMENT RATE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Posts analysed : 12
@@ -73,7 +73,7 @@
 ---
 
 ```
-[Ja4instaHome][@cristiano]> activity
+[Ja4instaHome][@tnst7_]> activity
 
 ━━━━ ACTIVITY ANALYSIS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Posts analysed : 50
@@ -92,7 +92,7 @@
 ---
 
 ```
-[Ja4instaHome][@cristiano]> ban
+[Ja4instaHome][@tnst7]> ban
 
   ━━━━━━  Ja4BAN — Reason  ━━━━━━
     1. Spam
@@ -104,7 +104,7 @@
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Enter reason (1-6 or name): spam
 
-━━━━ Ja4BAN — @cristiano ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━ Ja4BAN — @tnst7_ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Target ID  : 173560420
   Reason     : Spam
   Sessions   : 50
